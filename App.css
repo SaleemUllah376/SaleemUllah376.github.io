@@ -1,0 +1,14 @@
+#heading1{
+  color: brown;
+}
+
+#mainbox{
+  border: 1px #888 solid;
+  width:fit-content; width:-webkit-fit-content;
+  align-items: center;
+  margin-left: 500px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+ 
+}
